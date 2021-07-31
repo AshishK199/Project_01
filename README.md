@@ -32,6 +32,15 @@ Download Git Bash on your computer - https://git-scm.com/downloads
 
 Clone my code - git clone https://github.com/MANASWINI1591/BIG-DATA-PROJECT1.git
 
+ Links for data
+- [All Analytics](https://dumps.wikimedia.org/other/analytics/)
+- [Pageviews Filtered to Human Traffic](https://dumps.wikimedia.org/other/pageviews/readme.html)
+  - https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Traffic/Pageviews
+- [Page Revision and User History](https://dumps.wikimedia.org/other/mediawiki_history/readme.html)
+  - https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Edits/Mediawiki_history_dumps#Technical_Documentation
+- [Monthly Clickstream](https://dumps.wikimedia.org/other/clickstream/readme.html)
+  - https://meta.wikimedia.org/wiki/Research:Wikipedia_clickstream
+
 Setup a Hortonworks in virtual machine, import pageview and clickstream data in hdfs, and start queryin the with hive.
 
 
