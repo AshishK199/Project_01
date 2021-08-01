@@ -15,10 +15,10 @@ Technologies Used
 
 Features
 
-Process the downloaded data analyze the datasets.
-Find, organize, and format pageviews on any given day.
-Follow clickstreams to find relative frequencies of different pages.
-Find the different way to analyze the most internal search link fraction of hotel california.
+1.Process the downloaded data analyze the datasets.
+2.Find, organize, and format pageviews on any given day.
+3.Follow clickstreams to find relative frequencies of different pages.
+4.Find the different way to analyze the most internal search link fraction of hotel california.
 
 Getting Started
 
