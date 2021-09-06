@@ -77,9 +77,6 @@ https://github.com/rajoffl/Project-1-Wikipedia-data-analysis​
 - Sailash
 https://github.com/Sailash/Project_1
 
-License
-
-
 ## Reference
 -  Pageviews Filtered to Human Traffic
 
