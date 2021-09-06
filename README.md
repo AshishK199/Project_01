@@ -55,8 +55,8 @@ To run hive command hive -f <FILE.sql>
 https://github.com/aparnasankarasetti/project_1​
 
 - Ashish Kumar​
-
-- https://github.com/AshishK199/Project_01​
+    
+https://github.com/AshishK199/Project_01​
 
 - Devan Sharma​
 
@@ -75,6 +75,7 @@ https://github.com/Pooja0210/Project1​
 https://github.com/rajoffl/Project-1-Wikipedia-data-analysis​
 
 - Sailash
+  
 https://github.com/Sailash/Project_1
 
 ## Reference
