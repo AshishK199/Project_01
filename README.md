@@ -48,36 +48,6 @@ To run hive command hive -f <FILE.sql>
 
 5.Find which device generate the most traffic on the English Wikipedia Article.
 
-
-## Contributors
-- Aparna Sankarasetti​
-
-https://github.com/aparnasankarasetti/project_1​
-
-- Ashish Kumar​
-    
-https://github.com/AshishK199/Project_01​
-
-- Devan Sharma​
-
-https://github.com/devanshsharma-bigdata/P1-Wkipedia-Data-Analysis​
-
-- Hemanth Ghosh​
-
-https://github.com/Hemanth-Ghosh/Big-Data-Python-Project-1​
-
-- Pooja Kumari​
-
-https://github.com/Pooja0210/Project1​
-
-- Rajkumar K​
-
-https://github.com/rajoffl/Project-1-Wikipedia-data-analysis​
-
-- Sailash
-  
-https://github.com/Sailash/Project_1
-
 ## Reference
 -  Pageviews Filtered to Human Traffic
 
